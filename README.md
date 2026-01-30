@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
