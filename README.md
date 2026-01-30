@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0013-roman-to-integer) |
 ## String
