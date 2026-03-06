@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
