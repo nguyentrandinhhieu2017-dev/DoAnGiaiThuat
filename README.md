@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0119-pascals-triangle-ii](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
