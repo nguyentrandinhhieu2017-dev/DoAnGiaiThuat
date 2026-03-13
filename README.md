@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Trie
 |  |
@@ -141,6 +144,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Tree
 |  |
 | ------- |
