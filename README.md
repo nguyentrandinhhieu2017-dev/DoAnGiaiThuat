@@ -56,6 +56,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Memoization
 |  |
 | ------- |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
