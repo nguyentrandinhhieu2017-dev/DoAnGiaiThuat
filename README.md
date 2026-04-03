@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -58,6 +59,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
@@ -131,6 +133,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0191-number-of-1-bits) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
