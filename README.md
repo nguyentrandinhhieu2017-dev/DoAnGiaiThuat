@@ -63,6 +63,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -159,6 +160,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Tree
 |  |
