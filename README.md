@@ -27,6 +27,7 @@
 | [0069-sqrtx](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
@@ -160,6 +161,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Tree
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
