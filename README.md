@@ -27,6 +27,7 @@
 | [0069-sqrtx](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Memoization
 |  |
