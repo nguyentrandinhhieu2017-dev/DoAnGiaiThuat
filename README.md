@@ -68,6 +68,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -107,6 +108,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
