@@ -70,6 +70,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
