@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -47,6 +48,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -68,6 +70,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
