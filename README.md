@@ -42,6 +42,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
 ## Array
 |  |
@@ -60,6 +61,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
