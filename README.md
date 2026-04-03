@@ -49,6 +49,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [1844-replace-all-digits-with-characters](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2124-check-if-all-as-appears-before-all-bs) |
