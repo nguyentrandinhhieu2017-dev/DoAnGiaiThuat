@@ -65,6 +65,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -165,6 +166,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -234,5 +236,6 @@
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
