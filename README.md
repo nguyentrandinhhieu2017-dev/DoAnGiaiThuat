@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
@@ -64,6 +65,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -161,6 +164,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2418-sort-the-people) |
