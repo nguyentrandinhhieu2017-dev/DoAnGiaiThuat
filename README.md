@@ -70,6 +70,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [2057-smallest-index-with-equal-value](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
