@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1295-find-numbers-with-even-number-of-digits) |
