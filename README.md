@@ -49,6 +49,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
 | [1844-replace-all-digits-with-characters](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -73,6 +74,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2078-two-furthest-houses-with-different-colors) |
