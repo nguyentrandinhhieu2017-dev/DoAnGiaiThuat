@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
@@ -94,6 +95,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0485-max-consecutive-ones) |
@@ -162,6 +164,7 @@
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -285,6 +289,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -297,6 +302,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
@@ -325,4 +331,12 @@
 | ------- |
 | [1051-height-checker](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
