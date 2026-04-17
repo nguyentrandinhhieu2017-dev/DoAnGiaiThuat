@@ -55,6 +55,7 @@
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
+| [1556-thousand-separator](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
 | [1844-replace-all-digits-with-characters](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1844-replace-all-digits-with-characters) |
