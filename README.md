@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
+| [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -56,6 +57,7 @@
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
+| [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
@@ -85,6 +87,7 @@
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
