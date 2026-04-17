@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
@@ -57,6 +58,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [0771-jewels-and-stones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
