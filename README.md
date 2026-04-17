@@ -99,6 +99,7 @@
 | [0485-max-consecutive-ones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1051-height-checker) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0605-can-place-flowers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
