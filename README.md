@@ -91,6 +91,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0495-teemo-attacking](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1051-height-checker) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0495-teemo-attacking) |
 | [1518-water-bottles](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2154-keep-multiplying-found-values-by-two) |
