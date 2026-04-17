@@ -33,6 +33,7 @@
 | [0069-sqrtx](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2169-count-operations-to-obtain-zero) |
@@ -78,6 +79,7 @@
 | [0136-single-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
