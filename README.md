@@ -94,6 +94,7 @@
 | [0455-assign-cookies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
+| [0724-find-pivot-index](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -308,6 +309,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
