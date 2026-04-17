@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1748-sum-of-unique-elements) |
@@ -87,6 +88,7 @@
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1748-sum-of-unique-elements) |
@@ -201,6 +203,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -292,4 +295,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
