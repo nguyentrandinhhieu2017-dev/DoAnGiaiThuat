@@ -52,6 +52,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [1694-reformat-phone-number](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1773-count-items-matching-a-rule) |
 | [1844-replace-all-digits-with-characters](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
