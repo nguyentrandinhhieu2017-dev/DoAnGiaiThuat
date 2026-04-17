@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0771-jewels-and-stones) |
@@ -60,6 +61,7 @@
 | [0067-add-binary](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0168-excel-sheet-column-title) |
+| [0387-first-unique-character-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/1748-sum-of-unique-elements) |
@@ -308,6 +311,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
