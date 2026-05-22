@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/nguyentrandinhhieu2017-dev/DoAnGiaiThuat/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
